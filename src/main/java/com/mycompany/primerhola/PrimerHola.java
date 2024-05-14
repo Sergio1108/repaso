@@ -23,6 +23,8 @@ public class PrimerHola {
         short numero_pequeño = 324;
         String[]vector_palabras;
         int[]vector_numeros;
+        float decimal2;
+        int numero2;
         
         numero = 92837;
         
